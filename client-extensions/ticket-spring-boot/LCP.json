@@ -23,5 +23,8 @@
 			"port": 58081
 		}
 	},
-	"scale": 1
+	"scale": 1,
+	"dependencies": [
+		"ticketbatch"
+	]
 }

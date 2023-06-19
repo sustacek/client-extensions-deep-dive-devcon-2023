@@ -10,5 +10,8 @@
 	"kind": "CronJob",
 	"memory": 1024,
 	"scale": 1,
-	"schedule": "*/15 * * * *"
+	"schedule": "*/15 * * * *",
+	"dependencies": [
+		"ticketbatch"
+	]
 }

@@ -1,7 +1,7 @@
 load("ext://uibutton", "cmd_button", "text_input", "location")
 
 dxp_buildargs = {
-  "DXP_BASE_IMAGE": "liferay/dxp:7.4.13-u75-d5.0.32-20230504180205"
+  "DXP_BASE_IMAGE": "liferay/dxp:7.4.13-u81"
 }
 
 dxp_data_volume = "dxpDataDeepDiveDevcon2023"
